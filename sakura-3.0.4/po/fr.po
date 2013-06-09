@@ -1,0 +1,217 @@
+# This file is distributed under the same license as the sakura package.
+# Fabrice Thiroux <fabrice.thiroux@free.fr>, 2008.
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: sakura 1.2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-04 00:35+0200\n"
+"PO-Revision-Date: 2011-11-11 19:21+0000\n"
+"Last-Translator: David Gómez <david@pleyades.net>\n"
+"Language-Team: <fabrice.thiroux@free.fr>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-03-18 04:35+0000\n"
+"X-Generator: Launchpad (build 14951)\n"
+
+msgid "Print version number"
+msgstr "Afficher le numéro de version"
+
+msgid "Select initial terminal font"
+msgstr "Sélectionner la police à utiliser au démarrage"
+
+msgid "Select initial number of tabs"
+msgstr "Sélectionner le nombre d'onglets au démarrage"
+
+msgid "Execute command"
+msgstr "Exécuter une command"
+
+#, fuzzy
+msgid "Execute command (last option in the command line)"
+msgstr "Exécuter la commande (compatible xterm)"
+
+msgid "Login shell"
+msgstr "Shell de connexion"
+
+msgid "Set window title"
+msgstr "Définir le titre de la fenêtre"
+
+msgid "Set columns number"
+msgstr "Définir le nombre de colonnes"
+
+msgid "Set rows number"
+msgstr "Définir le nombre de lignes"
+
+msgid "Hold window after execute command"
+msgstr "Conserver la fenêtre après l'execution d'une commande"
+
+msgid "X geometry specification"
+msgstr "Méthode de saisie X"
+
+msgid "Use alternate configuration file"
+msgstr "Utiliser le fichier de configuration alternatif"
+
+msgid "Configuration has been modified by another proccess. Overwrite?"
+msgstr "La configuration a été modifié par un autre processus. L'écraser?"
+
+msgid ""
+"There are running processes.\n"
+"\n"
+"Do you really want to close Sakura?"
+msgstr ""
+"Il y a des processus actifs dans ce terminal.\n"
+"\n"
+"Voulez-vous vraiment le fermer ?"
+
+msgid "Select font"
+msgstr "Sélectionner la police"
+
+#, fuzzy
+msgid "Set tab name"
+msgstr "Définir le nom"
+
+#, fuzzy
+msgid "New text"
+msgstr "Nouvel onglet"
+
+msgid "Select color"
+msgstr "Sélectionner une couleur"
+
+msgid "Select foreground color:"
+msgstr "Sélectionner la couleur de premier plan"
+
+msgid "Select background color:"
+msgstr "Sélectionner la couleur d'arrière plan"
+
+msgid "Opacity"
+msgstr "Opacité"
+
+msgid "Opacity level (%):"
+msgstr "Niveau d'opacité (%)"
+
+msgid "New window title"
+msgstr "Définir le titre de la fenêtre"
+
+msgid "Select a background file"
+msgstr "Sélectionner une image de fond"
+
+msgid ""
+"There is a running process in this terminal.\n"
+"\n"
+"Do you really want to close it?"
+msgstr ""
+"Il y a un processus actif dans ce terminal.\n"
+"\n"
+"Voulez-vous vraiment le fermer ?"
+
+msgid "Open link..."
+msgstr "Ouvrir le lien..."
+
+msgid "Copy link..."
+msgstr "copier le lien..."
+
+msgid "New tab"
+msgstr "Nouvel onglet"
+
+#, fuzzy
+msgid "Set tab name..."
+msgstr "Définir le nom"
+
+msgid "Close tab"
+msgstr "Fermer l'onglet"
+
+msgid "Full screen"
+msgstr "Plein écran"
+
+msgid "Copy"
+msgstr "Copier"
+
+msgid "Paste"
+msgstr "Coller"
+
+msgid "Select font..."
+msgstr "Sélectionner la police..."
+
+msgid "Select colors..."
+msgstr "Choix des couleurs..."
+
+msgid "Select background..."
+msgstr "Définir l'arrière plan..."
+
+msgid "Clear background"
+msgstr "Effacer l'arrière plan"
+
+msgid "Set opacity level..."
+msgstr "Définir le niveau d'opacité..."
+
+msgid "Set window title..."
+msgstr "Définir le titre de la fenêtre..."
+
+msgid "Options"
+msgstr "Options"
+
+msgid "More"
+msgstr ""
+
+msgid "Always show tab bar"
+msgstr "Toujours afficher la barre d'onglets"
+
+msgid "Tabs at bottom"
+msgstr ""
+
+#, fuzzy
+msgid "Show close button on tabs"
+msgstr "Afficher le bouton de fermeture de l'onglet"
+
+msgid "Show scrollbar"
+msgstr "Afficher la barre de défilement"
+
+msgid "Show resize grip"
+msgstr ""
+
+msgid "Don't show exit dialog"
+msgstr ""
+
+msgid "Set audible bell"
+msgstr "Utiliser un avertissement audio"
+
+msgid "Set visible bell"
+msgstr "Utiliser un avertissement visuel"
+
+msgid "Set blinking cursor"
+msgstr "Utliser un curseur clignotant"
+
+msgid "Set cursor type"
+msgstr ""
+
+msgid "Block"
+msgstr ""
+
+msgid "Underline"
+msgstr ""
+
+msgid "IBeam"
+msgstr ""
+
+msgid "Set palette"
+msgstr "Sélectionner une palette de couleurs"
+
+msgid "Input methods"
+msgstr "Méthodes d'entrée"
+
+#, c-format
+msgid "Terminal %d"
+msgstr "Terminal %d"
+
+msgid "Error message"
+msgstr ""
+
+msgid "- vte-based terminal emulator"
+msgstr "Émulateur de terminal utilisant VTE"
+
+#, c-format
+msgid "sakura version is %s\n"
+msgstr "Sakura version %s\n"
